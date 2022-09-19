@@ -1,0 +1,1 @@
+## Bu bölümde matrix konusunu ele alacağız.
